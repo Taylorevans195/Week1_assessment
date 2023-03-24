@@ -8,7 +8,7 @@
     Create a variable called 'gitDefinition'.
     It should be a string containing your best definition of what Git is.
 */
-
+var gitDefinition = "git are the commands that move folders/files in to a git repository"
 //CODE HERE
 
 //////////////////PROBLEM 2////////////////////
@@ -16,7 +16,7 @@
     Create a variable called 'gitHubDefinition'.  
     It should be a string containing your best definition of what GitHub is.
 */
-
+var gitDefinition ="GitHub is a website made for uploding and sharing code with others"
 //CODE HERE
 
 //////////////////PROBLEM 3////////////////////
@@ -26,7 +26,7 @@
 */
 
 //CODE HERE
-
+var gitDefinition ="git init creates a git repository in what ever directory you are in"
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +34,7 @@
 */
 
 //CODE HERE
-
+var gitDefinition =" git clone will allow another usere to copy the folder both parties would like access to "
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +42,7 @@
 */
 
 //CODE HERE
-
+var gitDefinition
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +53,8 @@
 */
 
 //CODE HERE
-
+var gitDefinition = 'git add will add any changes that you have made to the file you are sharings'
+//var gitAddCode = git add .; git commit -m; git push
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,7 +66,7 @@
 
 //CODE HERE
 
-
+var gitDefinition = "git commit will permanently save any changes you have made in preperation to have the second party git pull the new information"
 //////////////////PROBLEM 8////////////////////
 /*
     Create a variable called 'gitPushDefinition'.  
@@ -73,3 +74,4 @@
 */
 
 //CODE HERE
+var gitDefinition="git push is the way to finalizes the trade of new code and information and is the final step before the second party can pull"

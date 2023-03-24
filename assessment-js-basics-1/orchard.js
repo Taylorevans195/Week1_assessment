@@ -23,7 +23,7 @@
     meaning that 2 acres of Fuji apples were 
     picked on Monday of this week.
 
-    The prices are per pound and are written
+    The prices are per pound are written
     in cents. 
 */
 
