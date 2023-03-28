@@ -2,7 +2,7 @@
 /* Create a variable called 'myName' with a value that is your name as a string. */
 
 //CODE HERE 
-let myName = taylor
+let myName = `taylor`
 //////////////////PROBLEM 2////////////////////
 /* Create a variable called 'faveNum' with a value that is your favorite number. */
 let faveNum = 25
@@ -24,7 +24,7 @@ let lovesCode = true
 if (faveNum === 13){
   console.log('lucky 13')
 }else {
-  console.log(even luckier 25)
+  console.log(`even luckier 25`)
 }
 
 //////////////////PROBLEM 5////////////////////
@@ -33,6 +33,6 @@ if (faveNum === 13){
 */
 
 //CODE HERE
-for (let i = < 5; i++){
-  console.log ( the best number ever is $ faveNumber)
+for (let i = 0; i < 5; i++){
+  console.log ( `the best number ever is ${faveNum}`)
 }
